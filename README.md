@@ -1,4 +1,4 @@
-# codificaBase64
+# codifica64
 decodifica e codifica texto em base64
 
 
